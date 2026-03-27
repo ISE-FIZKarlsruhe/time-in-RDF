@@ -1,0 +1,3 @@
+[submodule "RDF-Extensions-for-Cultural-Heritage"]
+	path = RDF-Extensions-for-Cultural-Heritage
+	url = https://github.com/sashabruns/RDF-Extensions-for-Cultural-Heritage.git
